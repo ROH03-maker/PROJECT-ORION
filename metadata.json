@@ -1,0 +1,6 @@
+{
+  "name": "Project Orion",
+  "description": "Classified futuristic control interface and mission dashboard for Project Orion, featuring advanced cyberintelligence monitoring, neural networks, and interactive AI core terminals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
