@@ -2,7 +2,7 @@
 
 Project Orion is a futuristic web-based project created to explore modern UI design, interactive experiences, and advanced frontend development concepts. The idea behind Orion was to build a clean, immersive, and visually engaging digital experience inspired by next-generation technology and sci-fi aesthetics.
 
-🔗 Live Demo: https://project-orion-amber.vercel.app/
+🔗 Live Demo: https://project-orion-amber.vercel.app
 
 ---
 
