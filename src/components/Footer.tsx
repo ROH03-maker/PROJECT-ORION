@@ -59,8 +59,8 @@ export default function Footer() {
         {/* Bottom credits */}
         <div className="border-t border-[#00f0ff]/10 pt-6 flex flex-col md:flex-row justify-between items-center text-[10px] font-mono text-zinc-500 gap-4">
           <div className="flex gap-6">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="hover:text-white text-[#00f0ff]/80 transition-colors uppercase tracking-widest">// GITHUB.CORE</a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="hover:text-white text-[#00f0ff]/80 transition-colors uppercase tracking-widest">// LINKEDIN.SECURE</a>
+            <a href="https://github.com/Rohitsarkarcodes" target="_blank" rel="noopener noreferrer" className="hover:text-white text-[#00f0ff]/80 transition-colors uppercase tracking-widest">// GITHUB.CORE</a>
+            <a href="https://www.linkedin.com/in/rohit-sarkar-rs03" target="_blank" rel="noopener noreferrer" className="hover:text-white text-[#00f0ff]/80 transition-colors uppercase tracking-widest">// LINKEDIN.SECURE</a>
             <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="hover:text-white text-[#00f0ff]/80 transition-colors uppercase tracking-widest">// INSTAGRAM.LOG</a>
           </div>
 

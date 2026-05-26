@@ -10,7 +10,7 @@ export default function ConnectedEcosystem() {
       category: "Intelligence Core",
       status: "SECURED (v4.0)",
       metricsRef: "BLOCKS::10.2M/day",
-      externalLink: "https://github.com"
+      externalLink: "https://github.com/Rohitsarkarcodes"
     },
     {
       id: "neural-loom",
@@ -19,7 +19,7 @@ export default function ConnectedEcosystem() {
       category: "Cognitive Wefts",
       status: "ACTIVE SYNC",
       metricsRef: "STABILITY::99.12%",
-      externalLink: "https://github.com"
+      externalLink: "https://github.com/Rohitsarkarcodes"
     },
     {
       id: "personal-portfolio",
@@ -28,7 +28,7 @@ export default function ConnectedEcosystem() {
       category: "Main Nexus",
       status: "PUBLIC DIRECT",
       metricsRef: "COORDINATE::STABLE",
-      externalLink: "https://github.com"
+      externalLink: "https://github.com/Rohitsarkarcodes"
     },
     {
       id: "stellar-grid",
@@ -37,7 +37,7 @@ export default function ConnectedEcosystem() {
       category: "Power Grid",
       status: "STANDBY READY",
       metricsRef: "RESERVES::85.5% CAP",
-      externalLink: "https://github.com"
+      externalLink: "https://github.com/Rohitsarkarcodes"
     }
   ];
 

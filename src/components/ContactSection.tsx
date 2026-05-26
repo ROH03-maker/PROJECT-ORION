@@ -88,15 +88,15 @@ export default function ContactSection() {
     },
     {
       label: "github",
-      link: "https://github.com/roh03-maker",
+      link: "https://github.com/Rohitsarkarcodes",
       wrapperHover: "hover:border-white/50 hover:bg-white/5 hover:shadow-[0_0_15px_rgba(255,255,255,0.15)]",
       iconContainer: "bg-white/5 border-white/10 text-zinc-400 group-hover:bg-white group-hover:text-black group-hover:border-white",
       textHover: "group-hover:text-white",
       customIcon: (className: string) => <Github className={className} />
     },
     {
-      label: "linkdin",
-      link: "https://www.linkedin.com/in/rohit-sarkar-3a91423b8",
+      label: "linkedin",
+      link: "https://www.linkedin.com/in/rohit-sarkar-rs03",
       wrapperHover: "hover:border-[#00f0ff]/50 hover:bg-[#00f0ff]/5 hover:shadow-[0_0_15px_rgba(0,240,255,0.2)]",
       iconContainer: "bg-[#00f0ff]/5 border-[#00f0ff]/20 text-[#00f0ff] group-hover:bg-cyan-500/10 group-hover:border-[#00f0ff] group-hover:text-[#00f0ff]",
       textHover: "group-hover:text-[#00f0ff]",
